@@ -1,0 +1,7 @@
+ID,Name,Grades,Average,Letter Grade,Status
+STU001,Alice Johnson,"92.0;88.0;95.0;91.0;87.0",90.60,A,PASS
+STU002,Bob Smith,"74.0;68.0;72.0;65.0;70.0",69.80,D,PASS
+STU003,Carol White,"55.0;60.0;58.0;52.0;57.0",56.40,F,FAIL
+STU004,David Brown,"81.0;85.0;79.0;88.0;82.0",83.00,B,PASS
+STU005,Eva Martinez,"98.0;96.0;99.0;97.0;95.0",97.00,A,PASS
+STU006,Tebo Junior,"52.0;47.0;69.0;56.0;89.0",62.60,D,PASS

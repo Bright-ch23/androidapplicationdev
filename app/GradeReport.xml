@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+  <student id="STU001">
+    <name>Alice Johnson</name>
+    <grades>92.0,88.0,95.0,91.0,87.0</grades>
+    <average>90.60</average>
+    <letterGrade>A</letterGrade>
+    <status>PASS</status>
+  </student>
+  <student id="STU002">
+    <name>Bob Smith</name>
+    <grades>74.0,68.0,72.0,65.0,70.0</grades>
+    <average>69.80</average>
+    <letterGrade>D</letterGrade>
+    <status>PASS</status>
+  </student>
+  <student id="STU003">
+    <name>Carol White</name>
+    <grades>55.0,60.0,58.0,52.0,57.0</grades>
+    <average>56.40</average>
+    <letterGrade>F</letterGrade>
+    <status>FAIL</status>
+  </student>
+  <student id="STU004">
+    <name>David Brown</name>
+    <grades>81.0,85.0,79.0,88.0,82.0</grades>
+    <average>83.00</average>
+    <letterGrade>B</letterGrade>
+    <status>PASS</status>
+  </student>
+  <student id="STU005">
+    <name>Eva Martinez</name>
+    <grades>98.0,96.0,99.0,97.0,95.0</grades>
+    <average>97.00</average>
+    <letterGrade>A</letterGrade>
+    <status>PASS</status>
+  </student>
+  <student id="STU006">
+    <name>Tebo Junior</name>
+    <grades>52.0,47.0,69.0,56.0,89.0</grades>
+    <average>62.60</average>
+    <letterGrade>D</letterGrade>
+    <status>PASS</status>
+  </student>
+</students>
